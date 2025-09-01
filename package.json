@@ -1,0 +1,16 @@
+{
+  "name": "hashira-secret-sharing",
+  "version": "1.0.0",
+  "description": "Shamir's Secret Sharing solver for Hashira Placements Assignment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "keywords": ["shamir", "secret-sharing", "polynomial", "lagrange-interpolation"],
+  "author": "Your Name",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
