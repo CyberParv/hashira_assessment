@@ -183,7 +183,7 @@ f(0) = 12 - 21 + 12 = 3
 - Base conversion supports both numeric and alphabetic digits (0-9, a-z)
 
 ## Author
-**Utkarsh Shukla**  
-**Student ID:** 229301763  
+**Parv Jain**  
+**Student ID:** 229301771  
 Solution implemented for Hashira Placements Assignment
 
