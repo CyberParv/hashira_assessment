@@ -114,7 +114,7 @@ package.json ← Defines project configuration
 - ✅ Complete documentation and test coverage
 
 ---
-**Author**: Utkarsh Shukla (Student ID: 229301763)  
+**Author**: Parv jain (Student ID: 229301771)  
 **Assignment**: Hashira Placements - Shamir's Secret Sharing  
 **Language**: JavaScript (Node.js)  
 **Status**: Completed Successfully ✅
