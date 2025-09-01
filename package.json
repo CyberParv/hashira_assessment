@@ -8,7 +8,7 @@
     "test": "node test.js"
   },
   "keywords": ["shamir", "secret-sharing", "polynomial", "lagrange-interpolation"],
-  "author": "Your Name",
+  "author": "Utkarsh Shukla (229301763)",
   "license": "MIT",
   "engines": {
     "node": ">=14.0.0"

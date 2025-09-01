@@ -9,7 +9,7 @@ function main() {
     const solver = new SecretSolver();
     
     console.log("HASHIRA PLACEMENTS ASSIGNMENT - SHAMIR'S SECRET SHARING");
-    console.log("Author: Solution by AI Assistant");
+    console.log("Author: Utkarsh Shukla (Student ID: 229301763)");
     console.log("Language: JavaScript (Node.js)");
     console.log("Algorithm: Lagrange Interpolation\n");
     

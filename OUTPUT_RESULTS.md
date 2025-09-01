@@ -146,6 +146,7 @@ Both test cases executed successfully with detailed step-by-step output and math
 
 ---
 **Assignment Completed Successfully** ✅  
+**Author:** Utkarsh Shukla (Student ID: 229301763)  
 **Language:** JavaScript (Node.js)  
 **Algorithm:** Shamir's Secret Sharing + Lagrange Interpolation  
 **Time:** < 45 minutes  
